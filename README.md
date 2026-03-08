@@ -6,7 +6,7 @@ Justice League - DC Heroes est un site web statique développé en **HTML** et *
 
 Il s'agit de mon **tout premier projet web**, réalisé en **début d'année 2021** dans le cadre de mon apprentissage du développement **front-end**.
 
-Le site présente les membres emblématiques de la Justice League : **Batman, Superman, Wonder Woman, Cyborg, Aquaman et Green Lantern**.
+Le site présente les membres emblématiques de la Justice League : **Batman, Superman, Wonder Woman, Flash, Aquaman et Green Lantern**.
 
 ---
 
@@ -43,7 +43,7 @@ Le site présente les héros suivants :
 
 -  Batman - Le chevalier noir de Gotham
 
--  Superman - L'homme d'acier de Krypton
+-  Superman - L'homme d'acier
 
 -  Wonder Woman - La princesse Amazone
 
